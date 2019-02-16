@@ -18,7 +18,7 @@ if __name__ == '__main__':
         
 
         # print(os.path.abspath(os.path.join(dir, current_path)))
-        print(os.path.normpath(os.path.join(filepath, allDir)))
+#        print(os.path.normpath(os.path.join(filepath, allDir)))
 
 
         # child = os.path.join('%s%s' % (filepath, allDir))
